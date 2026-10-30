@@ -1,0 +1,51 @@
+opportunity_id,account_name,lead_source,owner,stage,estimated_deal_value_inr,stage_probability_percent,last_contact_date,next_follow_up_date,notes
+OPP001,SampleCo 001,Referral,Meera,New Lead,200000,5,2026-10-16,2026-10-27,Synthetic practice record; replace with actual interaction notes
+OPP002,SampleCo 002,LinkedIn,Asha,Qualified,100000,25,2026-10-10,2026-11-09,Synthetic practice record; replace with actual interaction notes
+OPP003,SampleCo 003,Website enquiry,Asha,Won,200000,100,2026-10-19,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP004,SampleCo 004,Outbound email,Ravi,Qualified,150000,25,2026-10-27,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP005,SampleCo 005,Website enquiry,Meera,Won,100000,100,2026-10-22,2026-11-08,Synthetic practice record; replace with actual interaction notes
+OPP006,SampleCo 006,Referral,Ravi,Meeting Booked,200000,40,2026-10-20,2026-11-05,Synthetic practice record; replace with actual interaction notes
+OPP007,SampleCo 007,Webinar,Asha,Proposal Sent,75000,60,2026-10-22,2026-10-28,Synthetic practice record; replace with actual interaction notes
+OPP008,SampleCo 008,Referral,Ravi,Qualified,200000,25,2026-10-20,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP009,SampleCo 009,LinkedIn,Ravi,Contacted,75000,10,2026-10-22,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP010,SampleCo 010,Referral,Meera,Negotiation,45000,80,2026-10-11,2026-10-27,Synthetic practice record; replace with actual interaction notes
+OPP011,SampleCo 011,Outbound email,Asha,Contacted,200000,10,2026-10-22,2026-10-30,Synthetic practice record; replace with actual interaction notes
+OPP012,SampleCo 012,Website enquiry,Meera,Contacted,100000,10,2026-10-28,2026-10-27,Synthetic practice record; replace with actual interaction notes
+OPP013,SampleCo 013,LinkedIn,Asha,Contacted,75000,10,2026-10-14,2026-11-07,Synthetic practice record; replace with actual interaction notes
+OPP014,SampleCo 014,Webinar,Meera,Proposal Sent,45000,60,2026-10-19,2026-11-07,Synthetic practice record; replace with actual interaction notes
+OPP015,SampleCo 015,Website enquiry,Asha,Meeting Booked,150000,40,2026-10-13,2026-11-06,Synthetic practice record; replace with actual interaction notes
+OPP016,SampleCo 016,Referral,Meera,Qualified,300000,25,2026-10-12,2026-10-27,Synthetic practice record; replace with actual interaction notes
+OPP017,SampleCo 017,Webinar,Ravi,Meeting Booked,200000,40,2026-10-30,2026-10-26,Synthetic practice record; replace with actual interaction notes
+OPP018,SampleCo 018,Outbound email,Ravi,Qualified,45000,25,2026-10-25,2026-10-31,Synthetic practice record; replace with actual interaction notes
+OPP019,SampleCo 019,Outbound email,Asha,Proposal Sent,150000,60,2026-10-20,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP020,SampleCo 020,Website enquiry,Meera,Qualified,200000,25,2026-10-24,2026-11-05,Synthetic practice record; replace with actual interaction notes
+OPP021,SampleCo 021,Outbound email,Meera,Qualified,100000,25,2026-10-28,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP022,SampleCo 022,Webinar,Meera,Meeting Booked,200000,40,2026-10-21,2026-11-02,Synthetic practice record; replace with actual interaction notes
+OPP023,SampleCo 023,Outbound email,Asha,Contacted,100000,10,2026-10-27,2026-11-08,Synthetic practice record; replace with actual interaction notes
+OPP024,SampleCo 024,Outbound email,Asha,Contacted,100000,10,2026-10-10,2026-10-28,Synthetic practice record; replace with actual interaction notes
+OPP025,SampleCo 025,Website enquiry,Meera,Qualified,200000,25,2026-10-26,2026-11-02,Synthetic practice record; replace with actual interaction notes
+OPP026,SampleCo 026,LinkedIn,Ravi,Contacted,75000,10,2026-10-24,2026-10-28,Synthetic practice record; replace with actual interaction notes
+OPP027,SampleCo 027,Webinar,Asha,Won,45000,100,2026-10-10,2026-11-09,Synthetic practice record; replace with actual interaction notes
+OPP028,SampleCo 028,Outbound email,Asha,Qualified,75000,25,2026-10-27,2026-10-26,Synthetic practice record; replace with actual interaction notes
+OPP029,SampleCo 029,Website enquiry,Asha,Meeting Booked,300000,40,2026-10-17,2026-11-07,Synthetic practice record; replace with actual interaction notes
+OPP030,SampleCo 030,Outbound email,Meera,New Lead,150000,5,2026-10-11,2026-10-28,Synthetic practice record; replace with actual interaction notes
+OPP031,SampleCo 031,LinkedIn,Ravi,Won,75000,100,2026-10-17,2026-10-26,Synthetic practice record; replace with actual interaction notes
+OPP032,SampleCo 032,LinkedIn,Asha,Qualified,300000,25,2026-10-26,2026-11-08,Synthetic practice record; replace with actual interaction notes
+OPP033,SampleCo 033,Referral,Asha,Contacted,150000,10,2026-10-19,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP034,SampleCo 034,Website enquiry,Ravi,New Lead,75000,5,2026-10-25,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP035,SampleCo 035,Website enquiry,Asha,Qualified,45000,25,2026-10-19,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP036,SampleCo 036,Outbound email,Meera,New Lead,200000,5,2026-10-11,2026-10-26,Synthetic practice record; replace with actual interaction notes
+OPP037,SampleCo 037,Outbound email,Asha,Negotiation,200000,80,2026-10-19,2026-11-01,Synthetic practice record; replace with actual interaction notes
+OPP038,SampleCo 038,Outbound email,Meera,Lost,75000,0,2026-10-24,2026-11-08,Synthetic practice record; replace with actual interaction notes
+OPP039,SampleCo 039,LinkedIn,Meera,New Lead,150000,5,2026-10-19,2026-11-06,Synthetic practice record; replace with actual interaction notes
+OPP040,SampleCo 040,Website enquiry,Asha,New Lead,75000,5,2026-10-28,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP041,SampleCo 041,Referral,Asha,Proposal Sent,75000,60,2026-10-20,2026-11-03,Synthetic practice record; replace with actual interaction notes
+OPP042,SampleCo 042,Referral,Ravi,Negotiation,200000,80,2026-10-17,2026-10-28,Synthetic practice record; replace with actual interaction notes
+OPP043,SampleCo 043,Website enquiry,Meera,Contacted,75000,10,2026-10-23,2026-10-31,Synthetic practice record; replace with actual interaction notes
+OPP044,SampleCo 044,LinkedIn,Meera,Negotiation,45000,80,2026-10-30,2026-11-06,Synthetic practice record; replace with actual interaction notes
+OPP045,SampleCo 045,Outbound email,Meera,Won,300000,100,2026-10-21,2026-11-06,Synthetic practice record; replace with actual interaction notes
+OPP046,SampleCo 046,Outbound email,Asha,Negotiation,45000,80,2026-10-11,2026-11-05,Synthetic practice record; replace with actual interaction notes
+OPP047,SampleCo 047,Outbound email,Meera,Meeting Booked,45000,40,2026-10-15,2026-11-02,Synthetic practice record; replace with actual interaction notes
+OPP048,SampleCo 048,Webinar,Asha,Proposal Sent,75000,60,2026-10-27,2026-11-07,Synthetic practice record; replace with actual interaction notes
+OPP049,SampleCo 049,Referral,Meera,Contacted,100000,10,2026-10-25,2026-11-09,Synthetic practice record; replace with actual interaction notes
+OPP050,SampleCo 050,Referral,Asha,Meeting Booked,300000,40,2026-10-27,2026-11-01,Synthetic practice record; replace with actual interaction notes

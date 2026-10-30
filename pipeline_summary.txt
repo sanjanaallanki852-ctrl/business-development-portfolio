@@ -1,0 +1,19 @@
+CRM PIPELINE SUMMARY
+As of: 2026-10-30
+Total opportunities: 50
+Open opportunities: 44
+Total estimated pipeline (INR): 6,760,000
+Weighted pipeline (INR): 2,534,250
+Won opportunities: 5
+Lost opportunities: 1
+Overdue follow-ups: 13
+
+OPPORTUNITIES BY STAGE
+New Lead: 6
+Contacted: 10
+Qualified: 11
+Meeting Booked: 7
+Proposal Sent: 5
+Negotiation: 5
+Won: 5
+Lost: 1

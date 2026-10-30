@@ -1,0 +1,8 @@
+dimension,weight_percent,research_question,suggested_evidence,hubspot_score_1_to_5,hubspot_evidence_url,zoho_score_1_to_5,zoho_evidence_url,salesforce_score_1_to_5,salesforce_evidence_url,date_verified,notes
+Target customer fit,20,"Which company sizes, industries and buyer types does the product appear to serve?",Official product pages; customer stories,,,,,,,,
+Ease of adoption,15,"What onboarding, setup and usability information is available?",Product documentation; demos; credible reviews,,,,,,,,
+Customization,15,"Which fields, workflows, permissions or modules can be configured?",Official feature documentation,,,,,,,,
+Automation,15,What workflow and sales automation capabilities are included by plan?,Official feature/pricing pages,,,,,,,,
+Reporting and analytics,15,"What standard reports, dashboards and forecasting features are available?",Official documentation; demos,,,,,,,,
+Integrations,10,Which native and third-party integrations matter to the target segment?,Integration directories,,,,,,,,
+Pricing transparency,10,"Can a buyer understand plan tiers, limits and total cost?",Official regional pricing pages; date-stamped,,,,,,,,
